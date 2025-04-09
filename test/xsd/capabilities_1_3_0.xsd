@@ -15,7 +15,7 @@
 	<!-- **  The Top-Level Element.                                         ** -->
 	<!-- ********************************************************************* -->
 	<element name="WMS_Capabilities">
-		<annotation>
+		<annotation>	
 			<documentation>
         A WMS_Capabilities document is returned in response to a
         GetCapabilities request made on a WMS.

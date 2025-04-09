@@ -12,9 +12,9 @@
     "setup": "npm install",
     "deploy": "npm run compile && npm publish"
   },
-  "author": "Eddy Spreeuwers",
-  "license": "UNLICENSED",
-  "repository": "https://github.com/spreeuwers/xsd2ts.git",
+  "author": "Eddy Spreeuwers & Ethan Wass",
+  "license": "GPL-3.0-only",
+  "repository": "https://github.com/eitanwass/xsd2typescript.git",
   "dependencies": {
     "@types/lodash.clonedeep": "4.5.3",
     "@types/lodash.merge": "4.6.3",
