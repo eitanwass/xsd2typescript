@@ -43,7 +43,7 @@ describe("ClassGenerator", () => {
         groupXsd = fs.readFileSync("./test/xsd/group.xsd").toString();
         elmXsd = fs.readFileSync("./test/xsd/element.xsd").toString();
         singleElmXsd = fs.readFileSync("./test/xsd/singleElm.xsd").toString();
-        simpleTypeXsd = fs.readFileSync("./test/xsd/simpletype.xsd").toString();
+        simpleTypeXsd = fs.readFileSync("./test/xsd/simpleType.xsd").toString();
         targetnamespace = fs.readFileSync("./test/xsd/targetnamespace.xsd").toString();
     });
 

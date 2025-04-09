@@ -131,7 +131,7 @@
     </xs:simpleType>
     <xs:simpleType name="brackets15">
         <xs:restriction base="xs:string">
-            <xs:pattern value="[<>\[\]]"/>
+            <xs:pattern value="[&lt;&gt;\[\]]"/>
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="namestring165">
